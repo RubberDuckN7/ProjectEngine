@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game Engine", "Game Engine\Game Engine\Game Engine.csproj", "{4C98380F-ECCB-4AD5-8191-D306321DA6D4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Game EngineContent", "Game Engine\Game EngineContent\Game EngineContent.contentproj", "{01421727-643A-470C-A3D8-75AD184776C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C98380F-ECCB-4AD5-8191-D306321DA6D4}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{4C98380F-ECCB-4AD5-8191-D306321DA6D4}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{4C98380F-ECCB-4AD5-8191-D306321DA6D4}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{4C98380F-ECCB-4AD5-8191-D306321DA6D4}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{4C98380F-ECCB-4AD5-8191-D306321DA6D4}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{4C98380F-ECCB-4AD5-8191-D306321DA6D4}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{01421727-643A-470C-A3D8-75AD184776C1}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{01421727-643A-470C-A3D8-75AD184776C1}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
