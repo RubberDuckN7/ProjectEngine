@@ -10,6 +10,17 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Input.Touch;
 using Microsoft.Xna.Framework.Media;
 
+/////////////////////////////////////////////////////////
+// KOD STANDARD:
+// int variabel_ett;
+// void Funktion(int hej);
+// public class MongoWp
+// byte i_use_only_255_at_max;
+// Mer??? :O
+/////////////////////////////////////////////////////////
+
+
+
 namespace Game_Engine
 {
     /// <summary>
